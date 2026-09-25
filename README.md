@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/victor-lohan/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:victorelup@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.instagram.com/_imlohan/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner">
 </p>
 
@@ -154,21 +153,3 @@ flowchart LR
 | [terminalJava](https://github.com/vicloh/terminalJava) | Simulador de terminal Linux — exercício de POO | Java |
 | [teste-tecnico-java](https://github.com/vicloh/teste-tecnico-java) | Desafio técnico para vaga de estágio | Java |
 | [Faculdade-Engenharia-De-Software](https://github.com/vicloh/Faculdade-Engenharia-De-Software) | Exercícios da graduação — beecrowd e calculadora algébrica | C |
-
----
-
-### Onde meu código está
-
-Distribuição real por linguagem nos **16 repositórios** em que trabalho — públicos, privados e como colaborador. HTML gerado por relatório de teste foi excluído.
-
-| Linguagem | Participação | |
-|---|---|---|
-| **TypeScript** | **46,7%** | `████████████████████░░░░░░░░░░░░░░░░░░░░░░` |
-| **Java** | **27,6%** | `████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| **Python** | **13,9%** | `██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| CSS | 7,5% | `███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| Robot Framework | 2,0% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| JavaScript | 1,2% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| C | 0,4% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-
-**Frontend 55% · Backend 41%** — full stack de verdade, não de currículo.
