@@ -78,7 +78,8 @@ flowchart LR
 - Time de 5 pessoas, fluxo de **Pull Request com code review** — sou um dos revisores.
 - **Isolamento multi-tenant** por mixins, coberto por teste.
 - **Catraca de cobertura no CI** (`pytest --cov-fail-under`), elevada de 75% para 79%.
-- Minha atuação principal é a **API e o painel web**; participei também de features do app mobile.
+- Atuo nas **três frentes**: API Django, painel Next.js e app React Native.
+- No mobile, entreguei a **autenticação offline-first**, os *schemas* e repositórios do **Realm**, o **serviço de sincronização** e telas do fluxo de diário de pesca.
 
 **Stack:** Django 5.2 · Django REST Framework · SimpleJWT · PostgreSQL + PostGIS · Cloudflare R2 · Next.js 16 · MUI · React Native · Expo · Realm · pytest · Docker
 
