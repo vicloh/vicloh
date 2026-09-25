@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/victor-lohan/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:victorelup@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=victorelup@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner">
 </p>
 
@@ -86,7 +86,7 @@ flowchart LR
 <br/>
 
 #### AvaliaAI — Correção automatizada de cartões-resposta
-`privado` · `em dupla` · `cliente real`
+`privado` · `cliente real`
 
 Gera, lê e corrige cartões-resposta escolares. O professor sobe a folha — ou manda por e-mail — e recebe a correção. A leitura é **visão computacional (OMR)**: alinhamento por marcadores fiduciais, QR Code por aluno, detecção de bolhas por contorno.
 
@@ -101,7 +101,6 @@ flowchart LR
 
 - No front: estado de autenticação global via **Context API** e **refresh automático de token** por interceptor Axios.
 - No back: **processamento assíncrono** por eventos CDI e migrations SQL idempotentes.
-- Projeto planejado e construído **em dupla**, os dois na mesma tela.
 
 **Stack:** Java 21 · Quarkus · Panache · PostgreSQL 16 · JWT · Next.js 16 · React 19 · TypeScript · FastAPI · OpenCV · Docker Compose
 
@@ -128,7 +127,7 @@ flowchart LR
 <br/>
 
 #### Sistema de gestão para barbearias
-`privado` · `em dupla` · `em desenvolvimento`
+`privado` · `em desenvolvimento`
 
 Projeto onde fui responsável pela **esteira de qualidade**: escrevi o pipeline de **CI/CD em GitHub Actions** e a **suíte de testes de integração** do backend, e atuo revisando e integrando os Pull Requests.
 
